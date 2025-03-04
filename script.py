@@ -1,3 +1,2 @@
 def print_message():
-    print("Hello from Feature 1")
-
+    print("Merged: Feature1 & Feature2")
